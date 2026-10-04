@@ -1,0 +1,50 @@
+1 try { . "c:\Users\DELL\AppData\Local\Programs\Microsoft V...
+   2 cd .\git_learning\                                          
+   3 run .\python_code.py                                        
+   4 python .\python_code.py                                     
+   5 python python_code.py                                       
+   6 py -v                                                       
+   7 python --v                                                  
+   8 git init                                                    
+   9 git status                                                  
+  10 git add .\python_code.py                                    
+  11 git status                                                  
+  12 git rm -- .\python_code.py                                  
+  13 git status                                                  
+  14 git rm --cached python_code.py                              
+  15 git status                                                  
+  16 git add .\python_code.py                                    
+  17 rm .\python_code.py                                         
+  18 git add                                                     
+  19 git status                                                  
+  20 git restore python_code.py                                  
+  21 rm akhi.py                                                  
+  22 rm akhi.py                                                  
+  23 git restore akhi.py                                         
+  24 git status                                                  
+  25 git rm --cached python_code.py                              
+  26 git status                                                  
+  27 git status                                                  
+  28 git .add                                                    
+  29 git . add                                                   
+  30 git ad akhi.py python_code.py                               
+  31 git ad akhi.py                                              
+  32 git add python_code.py                                      
+  33 git add .\akhi.py                                           
+  34 git status                                                  
+  35 git commit -m "my code"                                     
+  36 git config --global user.email "akhilrajputshingh63@gmail...
+  37   git config --global user.name "akhi-0byte"                
+  38 git commit -m "my code"                                     
+  39 git status                                                  
+  40 rm .\akhi.py                                                
+  41 git restore akhi.py                                         
+  42 ls                                                          
+  43 git sta                                                     
+  44 git stat                                                    
+  45 git status                                                  
+  46 git add .\baho.py                                           
+  47 git add .\baho.py                                           
+  48 git status                                                  
+  49 rm .\baho.py                                                
+  50 git restore baho.py    
